@@ -1,2 +1,5 @@
 # hellow-world
-just another repository
+
+Hi supshuo!
+
+This is my first play
